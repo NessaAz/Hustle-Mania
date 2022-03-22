@@ -24,9 +24,11 @@ body{
 }
 .book-button{
    background-color: #82C232;
-   color: white;
-
-   
+   color: white;  
+}
+.book-button:hover, .register-button:hover{
+    color: white;
+    width: 8vw;
 }
 
 
