@@ -4,11 +4,38 @@ body{
     font-family: 'Fredoka', sans-serif;
     margin: 0;
     padding: 0;
+    width: 100%;
 
 }
+
 
 /*HOME PAGE SECTION*/
 .home {
     background-color: rgba(red, green, blue, alpha);
     
 }
+
+
+
+
+
+
+
+
+
+/* SELECTION PAGE  */
+.selection{
+    background: url("../assets/selection.jpg");
+    height: 75vh;
+    width: 100vw;
+}
+.book-button{
+   background-color: #82C232;
+   color: white;  
+}
+.book-button:hover, .register-button:hover{
+    color: white;
+    width: 8vw;
+}
+/* SELECTION PAGE  */
+
