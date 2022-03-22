@@ -9,6 +9,13 @@ body{
 }
 
 
+/*HOME PAGE SECTION*/
+.home {
+    background-color: rgba(red, green, blue, alpha);
+    
+}
+
+
 
 
 
@@ -31,3 +38,4 @@ body{
     width: 8vw;
 }
 /* SELECTION PAGE  */
+
