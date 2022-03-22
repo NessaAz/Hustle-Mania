@@ -6,3 +6,18 @@ body{
     padding: 0;
 
 }
+
+
+
+
+
+
+
+
+
+/* Booking Section CSS*/
+.booking{
+    background: url("../assets/about-us.jpg");
+    height: 100vh;
+    width: 100vw;
+}
